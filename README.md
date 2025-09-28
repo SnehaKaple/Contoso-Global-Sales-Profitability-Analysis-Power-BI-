@@ -21,7 +21,7 @@ The dashboard allows users to immediately slice and analyze performance across t
 - DAX (Data Analysis Expressions): Utilized complex DAX measures to calculate Key Performance Indicators (KPIs) like Total Profit, Sales Quantity, and Return Amount.
 - Power Query (M Language): Employed for resilient data cleaning, type conversion, and transformation processes.
 
-  ##  Dashboard Preview
+ ##  Dashboard Preview
 Below are snapshots of the PowerBI dashboard (for quick viewing).  
 
 
@@ -32,7 +32,7 @@ Below are snapshots of the PowerBI dashboard (for quick viewing).
 ![Problem Statement](https://github.com/SnehaKaple/Contoso-Global-Sales-Profitability-Analysis-Power-BI-/blob/main/Contoso%20Sales%20Requirements%20Analysis.pdf)
 
 ### Contoso Sales Final Project
-![Final Project](
+![Final Project](https://drive.google.com/file/d/13KI7lVw5Olb8iRWgjM66Agmnz5L7loS_/view?usp=sharing)
 
 ## Key Insights 
 
